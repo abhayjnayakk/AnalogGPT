@@ -1,0 +1,5 @@
+Circuit,Spec,Achieved,Pass
+OpAmp,"Av>=60dB",61dB,Yes
+VCO,"Fosc=1GHz",1.05GHz,Yes
+Bandgap,"Vref=1.2V±1%",1.21V,Yes
+LDO,"Load=100mA @ 100mV drop",98mV,Yes 
