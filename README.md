@@ -1,6 +1,9 @@
 # Analog-GPT: Generative AI for Analog IC Design  
 *From written specifications to SPICE-ready circuits.*
 
+![ChatGPT Image Jun 18, 2025, 02_26_03 AM](https://github.com/user-attachments/assets/1d21b99b-48c7-435c-a464-e9a2c02ab5b7)
+
+
 ## 🤝 Collaboration
 **Analog-GPT** is a joint project between **CelesticLabs** *(founded by Abhay – Lead AI Engineer)* and **NeuroAnalog** *(founded by Abhilash – Lead Analog Engineer)*.  
 By uniting frontier generative-model research with battle-hardened silicon know-how, we are building the first *AI-native* analog design copilot capable of turning a paragraph of specs into a verified SPICE netlist.
